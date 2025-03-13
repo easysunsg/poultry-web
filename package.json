@@ -1,0 +1,12 @@
+{
+  "name": "poultry-web",
+  "version": "1.0.0",
+  "description": "iOS风格的家禽养殖订单系统",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
